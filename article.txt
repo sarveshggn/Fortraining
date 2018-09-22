@@ -3,3 +3,4 @@ This is an article.
 The first change..
 commited change
 remote repo is there
+Some change for GUI version
