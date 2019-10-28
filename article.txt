@@ -5,3 +5,4 @@ commited change
 remote repo is there
 Some change for GUI version
 To check pull of GUI
+then apply pull
